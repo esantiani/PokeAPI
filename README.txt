@@ -1,18 +1,18 @@
 Assignment: PokeAPI Integration
 
-A simple web app that fetches and displays basic Pokémon information using the [PokéAPI](https://pokeapi.co/). This project demonstrates the use of JavaScript objects, DOM manipulation, and asynchronous JavaScript with `fetch()` and `async/await`.
+A simple web app that fetches and displays basic Pokemon information using the [PokéAPI](https://pokeapi.co/). This project demonstrates the use of JavaScript objects, DOM manipulation, and asynchronous JavaScript with `fetch()` and `async/await`.
 
 Objective
 
-Build a web page that allows users to search for a Pokémon by name or ID and dynamically displays its information using data retrieved from the PokéAPI.
+Build a web page that allows users to search for a Pokeon by name or ID and dynamically displays its information using data retrieved from the PokéAPI.
 
 Features
 
-Search for a Pokémon by name
-Display the Pokémon's name
-Show the Pokémon's image
-Display the Pokémon's type(s)
-Handle errors gracefully when a Pokémon is not found
+Search for a Pokemon by name
+Display the Pokemon's name
+Show the Pokemon's image
+Display the Pokemon's type(s)
+Handle errors gracefully when a Pokemon is not found
 
 Technologies Used
 
